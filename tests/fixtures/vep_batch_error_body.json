@@ -1,0 +1,4 @@
+{
+  "status_code": 400,
+  "body": "{\"error\":\"Can't locate object method \\\"get_alternatives\\\" via package \\\"Bio::EnsEMBL::VEP::Parser::VEP_input\\\" at /nfs/public/ro/ensweb/live/rest/www_116/ensembl-vep/modules/Bio/EnsEMBL/VEP/Parser.pm line 665.\\n\"}"
+}

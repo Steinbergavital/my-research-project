@@ -1,0 +1,31 @@
+[project]
+name = "vep-annotate"
+version = "0.1.0"
+description = "Annotate ClinVar benchmark variants with Ensembl VEP consequence terms"
+authors = [
+    { name = "Avital", email = "Steinbergavital@gmail.com" }
+]
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pandas==3.0.3",
+    "requests>=2.32",
+]
+
+[project.scripts]
+annotate-vep-consequences = "vep_annotate.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.8",
+]
+
+[tool.pytest.ini_options]
+markers = [
+    "network: hits the real Ensembl REST API (excluded by default)",
+]
+addopts = "-m 'not network'"
+
+[build-system]
+requires = ["uv_build>=0.11.32,<0.12.0"]
+build-backend = "uv_build"
