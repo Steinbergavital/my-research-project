@@ -1,0 +1,521 @@
+[
+  {
+    "start": 935779,
+    "allele_string": "G/A",
+    "strand": 1,
+    "id": "1_935779_G/A",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000187634",
+        "polyphen_prediction": "benign",
+        "flags": [
+          "cds_start_NF"
+        ],
+        "protein_start": 29,
+        "strand": 1,
+        "cdna_start": 84,
+        "sift_score": 1,
+        "hgnc_id": "HGNC:28706",
+        "biotype": "protein_coding",
+        "polyphen_score": 0,
+        "codons": "Ggc/Agc",
+        "amino_acids": "G/S",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "transcript_id": "ENST00000341065",
+        "sift_prediction": "tolerated",
+        "cdna_end": 84,
+        "gene_symbol": "SAMD11",
+        "protein_end": 29,
+        "variant_allele": "A",
+        "cds_end": 85,
+        "cds_start": 85,
+        "impact": "MODERATE",
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "variant_allele": "A",
+        "cds_end": 313,
+        "cds_start": 313,
+        "impact": "MODERATE",
+        "gene_symbol_source": "HGNC",
+        "codons": "Ggc/Agc",
+        "polyphen_score": 0,
+        "amino_acids": "G/S",
+        "transcript_id": "ENST00000342066",
+        "sift_prediction": "tolerated",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "protein_end": 105,
+        "cdna_end": 403,
+        "gene_symbol": "SAMD11",
+        "cdna_start": 403,
+        "sift_score": 1,
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "polyphen_prediction": "benign",
+        "protein_start": 105,
+        "gene_id": "ENSG00000187634",
+        "strand": 1
+      },
+      {
+        "amino_acids": "G/S",
+        "codons": "Ggc/Agc",
+        "polyphen_score": 0,
+        "protein_end": 105,
+        "gene_symbol": "SAMD11",
+        "cdna_end": 373,
+        "sift_prediction": "tolerated_low_confidence",
+        "transcript_id": "ENST00000437963",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "cds_start": 313,
+        "cds_end": 313,
+        "variant_allele": "A",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODERATE",
+        "polyphen_prediction": "benign",
+        "protein_start": 105,
+        "flags": [
+          "cds_end_NF"
+        ],
+        "gene_id": "ENSG00000187634",
+        "strand": 1,
+        "sift_score": 1,
+        "cdna_start": 373,
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "hgnc_id": "HGNC:28706",
+        "biotype": "protein_coding",
+        "impact": "MODIFIER",
+        "variant_allele": "A",
+        "gene_symbol": "SAMD11",
+        "distance": 3496,
+        "consequence_terms": [
+          "upstream_gene_variant"
+        ],
+        "transcript_id": "ENST00000455979",
+        "strand": 1,
+        "gene_id": "ENSG00000187634",
+        "flags": [
+          "cds_start_NF"
+        ]
+      },
+      {
+        "gene_id": "ENSG00000187634",
+        "distance": 4567,
+        "gene_symbol": "SAMD11",
+        "strand": 1,
+        "transcript_id": "ENST00000478729",
+        "consequence_terms": [
+          "upstream_gene_variant"
+        ],
+        "variant_allele": "A",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol_source": "HGNC",
+        "hgnc_id": "HGNC:28706",
+        "impact": "MODIFIER"
+      },
+      {
+        "cds_end": 850,
+        "cds_start": 850,
+        "variant_allele": "A",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODERATE",
+        "amino_acids": "G/S",
+        "polyphen_score": 0.003,
+        "codons": "Ggc/Agc",
+        "cdna_end": 1359,
+        "gene_symbol": "SAMD11",
+        "protein_end": 284,
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "transcript_id": "ENST00000616016",
+        "sift_prediction": "tolerated_low_confidence",
+        "sift_score": 1,
+        "cdna_start": 1359,
+        "hgnc_id": "HGNC:28706",
+        "biotype": "protein_coding",
+        "gene_id": "ENSG00000187634",
+        "polyphen_prediction": "benign",
+        "protein_start": 284,
+        "strand": 1
+      },
+      {
+        "strand": 1,
+        "gene_id": "ENSG00000187634",
+        "polyphen_prediction": "benign",
+        "flags": [
+          "cds_start_NF"
+        ],
+        "protein_start": 105,
+        "hgnc_id": "HGNC:28706",
+        "biotype": "protein_coding",
+        "sift_score": 1,
+        "cdna_start": 313,
+        "cdna_end": 313,
+        "gene_symbol": "SAMD11",
+        "protein_end": 105,
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "sift_prediction": "tolerated",
+        "transcript_id": "ENST00000616125",
+        "amino_acids": "G/S",
+        "polyphen_score": 0.02,
+        "codons": "Ggc/Agc",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODERATE",
+        "cds_start": 313,
+        "cds_end": 313,
+        "variant_allele": "A"
+      },
+      {
+        "protein_end": 105,
+        "gene_symbol": "SAMD11",
+        "cdna_end": 313,
+        "transcript_id": "ENST00000617307",
+        "sift_prediction": "tolerated",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "amino_acids": "G/S",
+        "codons": "Ggc/Agc",
+        "polyphen_score": 0.001,
+        "gene_symbol_source": "HGNC",
+        "impact": "MODERATE",
+        "cds_start": 313,
+        "cds_end": 313,
+        "variant_allele": "A",
+        "strand": 1,
+        "protein_start": 105,
+        "polyphen_prediction": "benign",
+        "flags": [
+          "cds_start_NF"
+        ],
+        "gene_id": "ENSG00000187634",
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "sift_score": 1,
+        "cdna_start": 313
+      },
+      {
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "cdna_start": 262,
+        "sift_score": 1,
+        "strand": 1,
+        "polyphen_prediction": "unknown",
+        "protein_start": 88,
+        "flags": [
+          "cds_start_NF"
+        ],
+        "gene_id": "ENSG00000187634",
+        "impact": "MODERATE",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "A",
+        "cds_end": 262,
+        "cds_start": 262,
+        "transcript_id": "ENST00000618181",
+        "sift_prediction": "tolerated",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "protein_end": 88,
+        "cdna_end": 262,
+        "gene_symbol": "SAMD11",
+        "codons": "Ggc/Agc",
+        "polyphen_score": 0,
+        "amino_acids": "G/S"
+      },
+      {
+        "cds_start": 850,
+        "cds_end": 850,
+        "variant_allele": "A",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODERATE",
+        "amino_acids": "G/S",
+        "codons": "Ggc/Agc",
+        "polyphen_score": 0.003,
+        "protein_end": 284,
+        "gene_symbol": "SAMD11",
+        "cdna_end": 1359,
+        "transcript_id": "ENST00000618323",
+        "sift_prediction": "tolerated_low_confidence",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "sift_score": 1,
+        "cdna_start": 1359,
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "polyphen_prediction": "benign",
+        "protein_start": 284,
+        "gene_id": "ENSG00000187634",
+        "strand": 1
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODERATE",
+        "cds_end": 313,
+        "cds_start": 313,
+        "variant_allele": "A",
+        "protein_end": 105,
+        "cdna_end": 313,
+        "gene_symbol": "SAMD11",
+        "transcript_id": "ENST00000618779",
+        "sift_prediction": "tolerated",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "amino_acids": "G/S",
+        "codons": "Ggc/Agc",
+        "polyphen_score": 0.001,
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "sift_score": 1,
+        "cdna_start": 313,
+        "strand": 1,
+        "protein_start": 105,
+        "polyphen_prediction": "benign",
+        "flags": [
+          "cds_start_NF"
+        ],
+        "gene_id": "ENSG00000187634"
+      },
+      {
+        "sift_score": 1,
+        "cdna_start": 313,
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "protein_start": 105,
+        "polyphen_prediction": "benign",
+        "flags": [
+          "cds_start_NF"
+        ],
+        "gene_id": "ENSG00000187634",
+        "strand": 1,
+        "cds_end": 313,
+        "cds_start": 313,
+        "variant_allele": "A",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODERATE",
+        "amino_acids": "G/S",
+        "codons": "Ggc/Agc",
+        "polyphen_score": 0,
+        "protein_end": 105,
+        "gene_symbol": "SAMD11",
+        "cdna_end": 313,
+        "sift_prediction": "tolerated",
+        "transcript_id": "ENST00000622503",
+        "consequence_terms": [
+          "missense_variant"
+        ]
+      },
+      {
+        "sift_score": 1,
+        "cdna_start": 1387,
+        "hgnc_id": "HGNC:28706",
+        "biotype": "protein_coding",
+        "gene_id": "ENSG00000187634",
+        "protein_start": 284,
+        "strand": 1,
+        "cds_end": 850,
+        "cds_start": 850,
+        "variant_allele": "A",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODERATE",
+        "amino_acids": "G/S",
+        "codons": "Ggc/Agc",
+        "cdna_end": 1387,
+        "gene_symbol": "SAMD11",
+        "protein_end": 284,
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "transcript_id": "ENST00000968542",
+        "sift_prediction": "tolerated"
+      },
+      {
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "cdna_start": 1387,
+        "sift_score": 1,
+        "strand": 1,
+        "protein_start": 284,
+        "gene_id": "ENSG00000187634",
+        "impact": "MODERATE",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "A",
+        "cds_start": 850,
+        "cds_end": 850,
+        "transcript_id": "ENST00000968543",
+        "sift_prediction": "tolerated_low_confidence",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "protein_end": 284,
+        "cdna_end": 1387,
+        "gene_symbol": "SAMD11",
+        "codons": "Ggc/Agc",
+        "amino_acids": "G/S"
+      },
+      {
+        "strand": 1,
+        "protein_start": 284,
+        "gene_id": "ENSG00000187634",
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "cdna_start": 1387,
+        "sift_score": 1,
+        "transcript_id": "ENST00000968544",
+        "sift_prediction": "tolerated_low_confidence",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "protein_end": 284,
+        "cdna_end": 1387,
+        "gene_symbol": "SAMD11",
+        "codons": "Ggc/Agc",
+        "amino_acids": "G/S",
+        "impact": "MODERATE",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "A",
+        "cds_end": 850,
+        "cds_start": 850
+      },
+      {
+        "hgnc_id": "HGNC:28706",
+        "biotype": "protein_coding",
+        "cdna_start": 1387,
+        "sift_score": 1,
+        "strand": 1,
+        "gene_id": "ENSG00000187634",
+        "protein_start": 284,
+        "impact": "MODERATE",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "A",
+        "cds_end": 850,
+        "cds_start": 850,
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "transcript_id": "ENST00001114008",
+        "sift_prediction": "tolerated_low_confidence",
+        "cdna_end": 1387,
+        "gene_symbol": "SAMD11",
+        "protein_end": 284,
+        "codons": "Ggc/Agc",
+        "amino_acids": "G/S"
+      },
+      {
+        "gene_id": "ENSG00000187634",
+        "distance": 3663,
+        "gene_symbol": "SAMD11",
+        "consequence_terms": [
+          "downstream_gene_variant"
+        ],
+        "strand": 1,
+        "transcript_id": "ENST00001114009",
+        "variant_allele": "A",
+        "gene_symbol_source": "HGNC",
+        "hgnc_id": "HGNC:28706",
+        "biotype": "protein_coding",
+        "impact": "MODIFIER"
+      },
+      {
+        "transcript_id": "ENST00001143017",
+        "sift_prediction": "tolerated_low_confidence",
+        "consequence_terms": [
+          "missense_variant"
+        ],
+        "protein_end": 284,
+        "cdna_end": 1359,
+        "gene_symbol": "SAMD11",
+        "codons": "Ggc/Agc",
+        "polyphen_score": 0.003,
+        "amino_acids": "G/S",
+        "impact": "MODERATE",
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "A",
+        "cds_start": 850,
+        "cds_end": 850,
+        "strand": 1,
+        "polyphen_prediction": "benign",
+        "protein_start": 284,
+        "gene_id": "ENSG00000187634",
+        "biotype": "protein_coding",
+        "hgnc_id": "HGNC:28706",
+        "cdna_start": 1359,
+        "sift_score": 1
+      }
+    ],
+    "end": 935779,
+    "colocated_variants": [
+      {
+        "clin_sig_allele": "A:benign;A:benign/likely_benign",
+        "start": 935779,
+        "var_synonyms": {
+          "ClinVar": [
+            "RCV001517724",
+            "VCV001167937",
+            "RCV003908850"
+          ]
+        },
+        "strand": 1,
+        "clin_sig_ref_allele": "G",
+        "frequencies": {
+          "A": {
+            "gnomade_amr": 0.0001118,
+            "gnomadg_asj": 0,
+            "gnomadg_ami": 0,
+            "eas": 0,
+            "gnomade_asj": 0,
+            "gnomade_nfe": 0.0009129,
+            "afr": 0,
+            "gnomade_eas": 0,
+            "sas": 0,
+            "eur": 0.002,
+            "gnomade_sas": 5.798e-05,
+            "af": 0.0004,
+            "gnomadg_sas": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg_amr": 6.533e-05,
+            "gnomadg_nfe": 0.0007939,
+            "gnomadg_eas": 0,
+            "gnomadg": 0.002173,
+            "gnomadg_fin": 0.02559,
+            "gnomade_remaining": 0.0008945,
+            "gnomade": 0.0014,
+            "gnomade_fin": 0.01823,
+            "amr": 0,
+            "gnomadg_afr": 9.619e-05,
+            "gnomadg_mid": 0,
+            "gnomade_mid": 0,
+            "gnomade_afr": 5.975e-05
+          }
+        },
+        "allele_string": "G/A/C",
+        "seq_region_name": "1",
+        "clin_sig": [
+          "benign",
+          "likely_benign"
+        ],
+        "id": "rs143282473",
+        "end": 935779,
+        "phenotype_or_disease": 1
+      }
+    ],
+    "input": "1 935779 935779 G/A 1",
+    "seq_region_name": "1",
+    "assembly_name": "GRCh38",
+    "most_severe_consequence": "missense_variant"
+  }
+]
